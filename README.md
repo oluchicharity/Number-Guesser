@@ -16,7 +16,12 @@ This is a simple number guessing game where the player has to guess a secret num
     cd Number-Guesser
     ```
 2. Open `index.html` in your web browser to play the game.
-
+   
+## Running locally
+```bash
+npm install
+npm start
+```
 ## Running Tests
 1. Install Jest:
     ```bash

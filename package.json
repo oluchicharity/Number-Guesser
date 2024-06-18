@@ -1,0 +1,12 @@
+{
+  "name": "number-guesser",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Simple number guesser game"
+}
